@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Magic 8 Ball
 //
-//  Created by Yu-Ting Chang on 4/15/18.
+//  Created by Kuan-Ping Chang on 4/15/18.
 //  Copyright © 2018 Kuan-Ping Chang. All rights reserved.
 //
 
